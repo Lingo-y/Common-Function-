@@ -9,7 +9,6 @@ public class Damage : MonoBehaviour
     public float currentHP=100;
     private Image HP_Effect;
     private Image HP_Point;
-    private Damage damage;
 
     private void Awake()
     {
